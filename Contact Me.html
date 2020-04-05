@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Contact Me">
+    <meta name="author" content="Belhassen Essid">
+    <title>My Blog|Contact Me</title>
+    <link href="indexcss.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a id="contacting" class="navbar-brand" href=""></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home
+                        <span class="sr-only">(current)</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="About%20Me.html">About Me</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="My%20Skills.html">My Skills</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="Contact%20Me.html">Contact Me</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Footer -->
+<footer style="margin-left: 0px;margin-right: 0px;width: 100%" class="py-5 bg-dark">
+    <div class="container">
+        <p class="m-0 text-center text-white">&copy;<span id="date"></span> My Blog. All rights reserved.
+    </div>
+</footer>
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script>let d = new Date;
+document.getElementById ( "date" ).innerHTML = d.getFullYear ();</script>
+</body>
+</html>
