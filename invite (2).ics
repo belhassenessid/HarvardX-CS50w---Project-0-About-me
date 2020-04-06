@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20200407T124500Z
+DTEND:20200407T134500Z
+DTSTAMP:20200406T121738Z
+ORGANIZER;CN=riadh.zaafrani@isi.utm.tn:mailto:riadh.zaafrani@isi.utm.tn
+UID:5gvmg2ae0jfjm16okrhdcl8bu7@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=medazizbelhajamor@gmail.com;X-NUM-GUESTS=0:mailto:medazizbelhajamor
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=emnagharbi368@gmail.com;X-NUM-GUESTS=0:mailto:emnagharbi368@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jouini.seyf.js@gmail.com;X-NUM-GUESTS=0:mailto:jouini.seyf.js@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ouesletyyosra@gmail.com;X-NUM-GUESTS=0:mailto:ouesletyyosra@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=hossprog@gmail.com;X-NUM-GUESTS=0:mailto:hossprog@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=yasminelajmi11@gmail.com;X-NUM-GUESTS=0:mailto:yasminelajmi11@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jemaielskander@gmail.com;X-NUM-GUESTS=0:mailto:jemaielskander@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=maatallahoumaima2@gmail.com;X-NUM-GUESTS=0:mailto:maatallahoumaima2
+ @gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=soulaaymamansouri45@gmail.com;X-NUM-GUESTS=0:mailto:soulaaymamansou
+ ri45@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=oueslatighassen5201@gmail.com;X-NUM-GUESTS=0:mailto:oueslatighassen
+ 5201@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=siwaredded71@gmail.com;X-NUM-GUESTS=0:mailto:siwaredded71@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=imenberrima5@gmail.com;X-NUM-GUESTS=0:mailto:imenberrima5@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=hamzachamkhi23@gmail.com;X-NUM-GUESTS=0:mailto:hamzachamkhi23@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=essidbelhassan@gmail.com;X-NUM-GUESTS=0:mailto:essidbelhassan@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=msaknimelek2@gmail.com;X-NUM-GUESTS=0:mailto:msaknimelek2@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=fertaniyoussef23@gmail.com;X-NUM-GUESTS=0:mailto:fertaniyoussef23@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mariemkallel36@gmail.com;X-NUM-GUESTS=0:mailto:mariemkallel36@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=riadh.zaafrani@isi.utm.tn;X-NUM-GUESTS=0:mailto:riadh.zaafrani@isi.utm.
+ tn
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=fatmabelhaj15@gmail.com;X-NUM-GUESTS=0:mailto:fatmabelhaj15@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=yassinmejri325@gmail.com;X-NUM-GUESTS=0:mailto:yassinmejri325@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nablisalma000@gmail.com;X-NUM-GUESTS=0:mailto:nablisalma000@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ihebetteyeb13@gmail.com;X-NUM-GUESTS=0:mailto:ihebetteyeb13@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dorra1933@gmail.com;X-NUM-GUESTS=0:mailto:dorra1933@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=omaradouli79@gmail.com;X-NUM-GUESTS=0:mailto:omaradouli79@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mouhamed.benattaya@yahoo.com;X-NUM-GUESTS=0:mailto:mouhamed.benatta
+ ya@yahoo.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=meriemjazzar@yahoo.com;X-NUM-GUESTS=0:mailto:meriemjazzar@yahoo.com
+X-MICROSOFT-CDO-OWNERAPPTID:-1568546588
+CREATED:20200406T121734Z
+DESCRIPTION:Bonjour\,\n\nVous êtes invités à la première séance synchrone\,
+  qui aura lieu demain 07 Avril à partir de 13H45\, avec l'outil Hangouts Me
+ et.\n\nCordialement. \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nVeuillez ne pas modifier cette secti
+ on de la description.\n\nUn appel vidéo est associé à cet événement.\nParti
+ ciper : https://meet.google.com/wwa-edfn-xnd\n+1 419-901-8070 Code PIN : 45
+ 6093053#\n\nAffichez votre événement sur la page https://www.google.com/cal
+ endar/event?action=VIEW&eid=NWd2bWcyYWUwamZqbTE2b2tyaGRjbDhidTcgZXNzaWRiZWx
+ oYXNzYW5AbQ&tok=MjUjcmlhZGguemFhZnJhbmlAaXNpLnV0bS50bmMwM2IzNjMxOGZjMDUxODk
+ xNWFmOGI5NmQwZDVjODUxY2YwMTc4ZTA&ctz=Africa%2FTunis&hl=fr&es=1.\n-::~:~::~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~:
+ :-
+LAST-MODIFIED:20200406T121736Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
