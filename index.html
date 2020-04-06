@@ -68,10 +68,10 @@
 <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script>let d = new Date;
 document.getElementById ( "date" ).innerHTML = d.getFullYear ();
-var ti = setInterval(myTimer, 800);
+var ti = setInterval(myTimer,1000);
 function myTimer() {
     var d = new Date();
-    var t = d.toLocaleTimeString()+':'+d.getMilliseconds();
+    var t = d.toLocaleTimeString();
     document.getElementById("timer").innerHTML = t;
 }
 </script>
