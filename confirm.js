@@ -1,5 +1,3 @@
-let d = new Date;
-document.getElementById ( "date" ).innerHTML = d.getFullYear ();
 auth();
 function auth () {
     document.getElementById ( "ps" ).style.visibility = "hidden";
@@ -33,3 +31,5 @@ function auth () {
         }
     }
 }
+let d = new Date;
+document.getElementById ( "date" ).innerHTML = d.getFullYear ();
