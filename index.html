@@ -14,7 +14,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="#">HOME SWEET HOME &#x1F3E0;</a>
+        <a class="navbar-brand" href="#">HOME SWEET HOME &#x1F3E0;  <span id="timer"></span></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -67,6 +67,13 @@
 <script src="vendor/jquery/jquery.min.js"></script>
 <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script>let d = new Date;
-document.getElementById ( "date" ).innerHTML = d.getFullYear ();</script>
+document.getElementById ( "date" ).innerHTML = d.getFullYear ();
+var ti = setInterval(myTimer, 800);
+function myTimer() {
+    var d = new Date();
+    var t = d.toLocaleTimeString()+':'+d.getMilliseconds();
+    document.getElementById("timer").innerHTML = t;
+}
+</script>
 </body>
 </html>
