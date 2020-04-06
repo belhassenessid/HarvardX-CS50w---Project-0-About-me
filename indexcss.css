@@ -10,13 +10,13 @@ body {
     margin: 0;
 }
 @media (min-width: 500px) {
-                body{
+                #b{
                     background-image: url(floral-875276_640.jpg);
                 }
             }
 
             @media (max-width: 499px) {
-                body{
+                #b{
                     background-image: url(watercolour-4117017_640.png);
                 }
             }
