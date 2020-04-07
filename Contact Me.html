@@ -59,14 +59,13 @@
         <circle cx="70" cy="30" r="5" fill="#000000"/>
         <path d="M 30 70 q 20 20 40 0" stroke="#FFFFFF" stroke-width="5" fill="none"/>
     </svg>
-
-    <form>
-        <input name="name" placeholder="Name" type="text" required/><br/>
-        <input name="email" placeholder="Email" type="email" required/><br/>
+    <form action="https://formspree.io/mvobalvr" method="POST" name="contact_form">
+        <input type="text" name="name" placeholder="Name" required/><br/>
+        <input type="email" name="_replyto" placeholder="Email" required/><br/>
         <textarea name="message" placeholder="Message: Sorry this section is under development this email service
                          is not available at the moment try to contact me using twitter, Facebook,
                           Linkedin or Gmail like it's showing below" required></textarea>
-        <input type="submit" value="SEND" class="submit"/>
+        <input type="submit" value="Send" class="submit"/>
     </form>
     <br>
     <br>
@@ -98,7 +97,9 @@
 </footer>
 <script src="vendor/jquery/jquery.min.js"></script>
 <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script>let d = new Date;
-document.getElementById ( "date" ).innerHTML = d.getFullYear ();</script>
+<script>
+let d = new Date;
+document.getElementById ( "date" ).innerHTML = d.getFullYear ();
+</script>
 </body>
 </html>

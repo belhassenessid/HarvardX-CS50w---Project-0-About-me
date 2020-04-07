@@ -10,15 +10,15 @@ if ( rep === pw ) {
     }
     else {
         alert ( "As good manners require, you must keep the secret and respect the rules" );
-        window.location.href = "index.html";
+        window.location.href = "Contact%20Me.html";
     }
 }
 else if ( rep === null ) {
-     window.location.href = "index.html";
+     window.location.href = "Contact%20Me.html";
 }
 else {
     alert( "ERROR 401\nWrong password" );
-    window.location.href = "index.html";
+    window.location.href = "Contact%20Me.html";
 }
 let d = new Date;
 document.getElementById ( "date" ).innerHTML = d.getFullYear ();
