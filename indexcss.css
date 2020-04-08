@@ -229,4 +229,16 @@ input, textarea {
     content: "Stop by & say hi!";
   }
 }
+#hob > .container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#hob > .container > div {
+  background-color: #3fb6b2;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  width: 200px;
+}
 /*# sourceMappingURL=indexcss.css.map */
