@@ -4,7 +4,6 @@ if ( rep === pw ) {
     document.getElementById ( "ps" ).style.visibility = "visible";
 }
 else {
-    document.getElementById ( "ps" ).style.visibility = "hidden";
     window.location.href = "Contact%20Me.html";
     alert( "ERROR 401\nWrong password" );
 }
