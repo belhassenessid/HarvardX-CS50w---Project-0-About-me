@@ -210,7 +210,9 @@ input, textarea {
   #contents::before {
     content: "Friends ❤are people who know you really well and like you anyway";
   }
-
+  #abtme::before{
+    content: "Just one big idea. One big idea, and we can change the world,"
+  }
   #contacting::before {
     content: "Don't be a stranger just say hello!";
   }
@@ -219,10 +221,12 @@ input, textarea {
   #contents::before {
     content: "Friends ❤";
   }
+  #abtme::before{
+    content: "we can change the world,"
+  }
 
   #contacting::before {
     content: "Stop by & say hi!";
   }
 }
-
 /*# sourceMappingURL=indexcss.css.map */
