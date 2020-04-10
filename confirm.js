@@ -1,7 +1,4 @@
-var rep = prompt ( "This personal section conatins photos if you wish to see them, you must type the password below," +
-    "otherwise visit the 'Contact Me' section and contact belhassen." , "Type The Password Here" );let pw="test";
-if (!(rep===pw)){
-    window.location.href = "Contact%20Me.html";
-    alert( "ERROR 401\nWrong password" );}
+alert( "This section contains personal photos,"+
+	" pressing OK means that you have undertaken not to manipulate any content");
 let d = new Date;
 document.getElementById ( "date" ).innerHTML = d.getFullYear ();
